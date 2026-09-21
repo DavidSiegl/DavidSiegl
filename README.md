@@ -88,7 +88,7 @@ I want to understand a system from the ground up before I automate it.
 <img src="https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white" alt="Traefik">
 <img src="https://img.shields.io/badge/CrowdSec-5E3BE1?style=flat-square" alt="CrowdSec">
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins">
-<img src="https://img.shields.io/badge/Watchtower-416271?style=flat-square&logo=watchtower&logoColor=white" alt="Watchtower">
+<img src="https://img.shields.io/badge/Renovate-308BE3?style=flat-square&logo=renovate&logoColor=white" alt="Renovate">
 <img src="https://img.shields.io/badge/Jellyfin-00A4DC?style=flat-square&logo=jellyfin&logoColor=white" alt="Jellyfin">
 <img src="https://img.shields.io/badge/Nextcloud-0082C9?style=flat-square&logo=nextcloud&logoColor=white" alt="Nextcloud">
 <img src="https://img.shields.io/badge/Syncthing-0891D1?style=flat-square&logo=syncthing&logoColor=white" alt="Syncthing">
