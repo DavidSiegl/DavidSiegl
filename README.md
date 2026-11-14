@@ -56,6 +56,7 @@ I want to understand a system from the ground up before I automate it.
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" alt="SQL">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R">
 <img src="https://img.shields.io/badge/Lua-000080?style=flat-square&logo=lua&logoColor=white" alt="Lua">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
@@ -64,7 +65,6 @@ I want to understand a system from the ground up before I automate it.
 **Data & Analytics**<br>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square" alt="Power BI">
 <img src="https://img.shields.io/badge/Excel%20%28Power%20Pivot%2C%20Power%20Query%2C%20VBA%29-217346?style=flat-square" alt="Excel (Power Pivot, Power Query, VBA)">
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R">
 <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" alt="spaCy">
 <img src="https://img.shields.io/badge/Machine%20Learning-6E40C9?style=flat-square" alt="Machine Learning">
 <img src="https://img.shields.io/badge/Deep%20Learning-6E40C9?style=flat-square" alt="Deep Learning">
