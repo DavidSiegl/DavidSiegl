@@ -1,6 +1,6 @@
 ### Hi, I'm David 👋
 
-DevOps & Database Engineer in Vienna, Austria. At the Austrian Federal Computing Centre
+DevOps | System | Database Engineer in Vienna, Austria. At the Austrian Federal Computing Centre
 (Bundesrechenzentrum) I look after critical data infrastructure: PostgreSQL, Db2 and MongoDB
 on Linux, virtualised with VMware and OpenShift, provisioned and maintained through automated
 pipelines in Python, Go, Bash and Ansible.
